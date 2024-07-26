@@ -1,2 +1,15 @@
 # OS_Class
-Operating System Class
+### Operating System Class
+> ![ppt 1-1](Images/1.png)
+>  ![ppt 1-2](Images/2.png)
+>  ![ppt 1-3](Images/3.png)
+>  ![ppt 1-4](Images/4.png)
+>  ![ppt 1-5](Images/5.png)
+>  ![ppt 2-1](Images/6.png)
+>  ![ppt 2-2](Images/7.png)
+>  ![ppt 2-3](Images/8.png)
+>  ![ppt 2-4](Images/9.png)
+>  ![ppt 2-5](Images/10.png)
+>  ![ppt 3-1](Images/11.png)
+>  ![ppt 3-2](Images/12.png)
+>  ![ppt 3-3](Images/13.png)
